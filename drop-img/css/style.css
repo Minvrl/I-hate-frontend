@@ -1,0 +1,9 @@
+.main-box{
+    width: 800px;
+    height: 800px;
+    
+}
+
+.bg-lum{
+    background-image: linear-gradient(to right top, #fdcc5c, #ffc167, #fdb872, #f8b07d, #efa987, #de9b83, #cc8e7e, #b98178, #9d6965, #825252, #683d3f, #4e282d);
+}
